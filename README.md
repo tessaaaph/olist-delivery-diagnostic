@@ -1,4 +1,4 @@
-# Olist Delivery Performance — Late Delivery Diagnostic by Tessa
+# Olist Marketplace: Delivery Buffer and Customer Satisfaction Analysis by Tessa
 
 ![Dashboard preview](screenshots/dashboard.png)
 
